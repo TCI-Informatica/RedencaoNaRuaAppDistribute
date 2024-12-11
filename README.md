@@ -9,7 +9,7 @@ Bem-vindo! Este documento apresenta as informações para visualizar e baixar a 
 Para facilitar o acesso, disponibilizamos um QR Code que leva diretamente à página de download da última versão publicada. Use a câmera do seu dispositivo ou um aplicativo leitor de QR Code para escaneá-lo.
 
 ### **QR Code de Acesso**
-![QR Code](./qrcode.png)
+![QR Code](./qr-code.png)
 *(Caso não consiga visualizar a imagem, certifique-se de que o arquivo “qrcode.png” está na mesma pasta deste README.)*
 
 ---
