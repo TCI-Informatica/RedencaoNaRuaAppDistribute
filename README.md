@@ -9,7 +9,11 @@ Bem-vindo! Este documento apresenta as informações para visualizar e baixar a 
 Para facilitar o acesso, disponibilizamos um QR Code que leva diretamente à página de download da última versão publicada. Use a câmera do seu dispositivo ou um aplicativo leitor de QR Code para escaneá-lo.
 
 ### **QR Code de Acesso**
+Aponte a câmera do seu dispositivo para o QR Code abaixo:
+
 <img src="./qr-code.png" alt="QR Code" width="300">
+
+[Ou clique aqui](https://github.com/TCI-Informatica/RedencaoNaRuaAppDistribute/releases/download/v1.0.0/app-v100.apk)
 
 ---
 
