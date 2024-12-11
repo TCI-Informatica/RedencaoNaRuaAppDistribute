@@ -31,8 +31,9 @@ Aponte a câmera do seu dispositivo para o QR Code abaixo:
 
 ## ❓ **Dúvidas ou Suporte**
 Em caso de dúvidas ou problemas, entre em contato com nossa equipe de suporte:
-- **E-mail:** suporte@empresa.com
-- **Telefone:** (XX) XXXX-XXXX
+- **E-mail:** atendimento@tciinformatica.com.br
+- **Telefone:** +55 11 96851-2678
+- **WhatsApp:** <a href="wa.link/yfi26u" target="_blank" rel="noopener noreferrer">Abra o WhatsApp</a>
 - **Site:** [TCI Informática](https://tcionline.com.br/secure/)
 
 Agradecemos por utilizar nosso aplicativo! 😊
